@@ -13,7 +13,7 @@ Requirements running the EXE file:
 2. create_new file on windows  ==>  name it dp-versions dp-versions the folder need to be created under C:\.
 3. create excel file named "grade" ==> put the file in  C:\dp-versions.
 
-Example Usage
+Example Usage 
 
 for Images repository:
 you can upgrade the versions using 3 different methods:
@@ -24,7 +24,7 @@ you can upgrade the versions using 3 different methods:
 before running the script must to fill the relevant cells inside the Excel file called "grade".
 example look at the  excel file called "grade" - filling the FTP credentials no needed if using Radware's repository:
 
-run the EXE:
+download from DP_Tool and run the EXE:
 DP_upgrade_script --> defensepro_upgrade.exe
 
 
@@ -47,4 +47,4 @@ you can upgrade the versions using 3 different methods:
 before running the script must to fill the relevant cells inside the Excel file called "grade".
 example look at the  excel file called "grade":
 
-and simply run the script from your python pycharm or IDLE python.
+download from source_code and simply run the script from your python pycharm or IDLE python.
