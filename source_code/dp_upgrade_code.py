@@ -1,5 +1,5 @@
 """ the script:
-1. automatically save device configuration on local pc
+1. automatically save device configuration on local pc and compare after version upgraded
 2. exports the devices MAC address + Firmware Version
 3. accessing to radware portal for password generating
 4. upgrading the device based on current version
