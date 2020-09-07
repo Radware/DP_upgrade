@@ -25,16 +25,14 @@ example look at the  excel file called "grade" - filling the FTP credentials no 
 run the EXE:
 DP_upgrade_script --> defensepro_upgrade.exe
 
+
+# using the Code:
+
 Requirements for self running code:
 1. Chromedriver ==> https://chromedriver.chromium.org/downloads
 2. create_new file on windows  ==>  name it dp-versions dp-versions the folder need to be created under C:\.
 3. create excel file named "grade" ==> put the file in  C:\dp-versions.
 4. python ==> 3.6 + all the dependencies as in the code.
-
-
-
-
-# using the Code:
 
 Example Usage
 
