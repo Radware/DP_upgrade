@@ -17,9 +17,9 @@ Example Usage
 
 for Images repository:
 you can upgrade the versions using 3 different methods:
-A. if you have all needed Images for upgrade the put them inside C:\dp-versions.
-B. if you have FTP server you can put the Images there and.
-C. if you dont have the Images or dont know the release path- the Tool will use the Radware's repository.
+1. if you have all needed Images for upgrade the put them inside C:\dp-versions.
+2. if you have FTP server you can put the Images there and.
+3. if you dont have the Images or dont know the release path- the Tool will use the Radware's repository.
   
 before running the script must to fill the relevant cells inside the Excel file called "grade".
 example look at the  excel file called "grade" - filling the FTP credentials no needed if using Radware's repository:
@@ -41,8 +41,8 @@ Example Usage
 for Images repository:
 you need to define the Images needed for upgrade in Radware defensepro release-notes.
 you can upgrade the versions using 3 different methods:
-A. if you have all needed Images for upgrade the put them inside C:\dp-versions.
-B. if you have FTP server you can put the Images there and.
+1. if you have all needed Images for upgrade the put them inside C:\dp-versions.
+2. if you have FTP server you can put the Images there and.
   
 before running the script must to fill the relevant cells inside the Excel file called "grade".
 example look at the  excel file called "grade":
