@@ -5,12 +5,14 @@ using this tool you can upgrade the defense_pro device from version 8.X to any u
 
 supporting for DP 400/200, 60/20, 6, VMware, KVM
 
+
+# using the Tool EXE file:
+
 Requirements running the EXE file:
 1. Chromedriver ==> https://chromedriver.chromium.org/downloads
 2. create_new file on windows  ==>  name it dp-versions dp-versions the folder need to be created under C:\.
 3. create excel file named "grade" ==> put the file in  C:\dp-versions.
 
-# using the Tool EXE file:
 Example Usage
 
 for Images repository:
